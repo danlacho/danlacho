@@ -1,2 +1,1 @@
-
-![Без им1](https://github.com/danlacho/danlacho/assets/148547472/2b83881d-c683-4373-81e1-668c541fdf11)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&background=000000&center=true&multiline=true&repeat=false&random=false&width=435&height=80&lines=Hello%2C+world!+I'm+danlacho.;+++++++%5Bdeveloper%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%5D;%3E%3A3" alt="Typing SVG" /></a>
